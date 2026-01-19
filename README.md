@@ -1,6 +1,15 @@
 # Multi-AI Collab
 
-Claude Code에서 Gemini CLI와 Codex CLI를 활용한 다중 AI 협업 스킬입니다.
+> 🤖 Claude Code에서 Gemini + Codex를 동시에 활용하는 CLI 스킬
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![AI Collab](https://img.shields.io/badge/AI%20Collab-Claude%20%7C%20Gemini%20%7C%20Codex-brightgreen)](https://github.com)
+
+하나의 질문으로 **3개 AI의 관점**을 비교하고, 더 나은 결정을 내리세요.
+
+## 데모
+
+![Demo](./demo.gif)
 
 ## 기능
 
